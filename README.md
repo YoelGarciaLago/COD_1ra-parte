@@ -11,6 +11,8 @@ Para utilizarlo en el examen.
 ```
 git add
 
+git clone
+
 git commit -m 
 
 git remote set-url origin (para cambiar la url)
